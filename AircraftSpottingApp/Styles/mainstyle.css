@@ -1,0 +1,149 @@
+﻿/*-----------------------------------------------------------------------------------*/
+/*  Mixins/variables - remeber to check mainstyle.scss
+/*-----------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------------*/
+/*  Style
+/*-----------------------------------------------------------------------------------*/
+body {
+  padding-top: 50px;
+  padding-bottom: 20px; }
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+  padding-left: 15px;
+  padding-right: 15px; }
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+  white-space: normal; }
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+  /*max-width: 280px;*/ }
+
+.navbar-title {
+  font-weight: bold;
+  color: white;
+  font-size: 28px;
+  float: left;
+  padding: 15px 1px 5px 1px;
+  line-height: 24px; }
+
+table.milestones tr td {
+  padding-right: 0.75em; }
+
+table.milestones tr td:nth-child(n+2) {
+  padding-bottom: 0.55em; }
+
+button.milestone-date-clear:hover span {
+  font-weight: bold; }
+
+.user-enabled {
+  /*background-color: $enabled;*/ }
+
+.demo.user-enabled {
+  /*background-color: $demoenabled;*/ }
+
+.user-disabled {
+  /*background-color: $disabled;*/ }
+
+a.require_confirmation {
+  cursor: pointer; }
+
+.elem-inline {
+  display: inline-block; }
+
+.text-bold {
+  font-weight: bold; }
+
+.content-top-margin {
+  margin-top: 0.5em; }
+
+.user-well {
+  margin: 0.5em 0.75em; }
+
+.btn-container {
+  padding: 0 0.25em; }
+
+.milestone-well {
+  margin: 0.5em 0.75em; }
+
+.milestone-name {
+  padding-right: 0.25em; }
+
+.milestone-panel {
+  padding-top: 1em;
+  padding-bottom: 1em; }
+
+.confirm-panel {
+  text-align: center; }
+
+.no-margin {
+  margin: 0; }
+
+.panel-top-margin {
+  margin-top: 1.5em; }
+
+.panel-small {
+  padding-top: 0.45em;
+  padding-bottom: 0.45em;
+  margin: 0; }
+
+.panel-no-bottom-margin {
+  margin-bottom: 0; }
+
+.form-control-width {
+  max-width: 90%; }
+
+.no-wrap {
+  white-space: nowrap; }
+
+#message {
+  width: 100%;
+  display: none; }
+
+div.supplier-panel {
+  display: inline-block;
+  margin: 0.05em; }
+  div.supplier-panel div.supplier-well {
+    min-width: 300px;
+    max-width: 300px;
+    margin: 0.05em 0.15em;
+    padding: 0.25em; }
+    div.supplier-panel div.supplier-well div.supplier-name {
+      font-size: 0.9em;
+      overflow: hidden;
+      max-width: 80%; }
+    div.supplier-panel div.supplier-well div.button-container {
+      max-width: 20%; }
+
+.supplier-enabled {
+  background-color: #DFF0D8; }
+
+.supplier-disabled {
+  background-color: #F2DEDE; }
+
+.breadcrumb {
+  background-color: #ffffff; }
+
+/* Send Asset To Supplier Modal */
+table#sendAssetToSupplierTable {
+  border-collapse: collapse; }
+
+table#sendAssetToSupplierTable td {
+  width: 100%; }
+
+.validationMessage {
+  margin-top: 4px; }
+
+/* Product Pricing Page */
+#loadPriceBtn, #loadSpecVariationsBtn {
+  margin-top: 22px;
+  margin-left: 10px; }
+
+.productAttributesWellBtn {
+  display: inline-block !important; }

@@ -1,0 +1,38 @@
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KOSetup\SourceCode\KOSetup\KOSetup\bin\KOSetup.dll.config
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KOSetup\SourceCode\KOSetup\KOSetup\bin\KOSetup.dll
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KOSetup\SourceCode\KOSetup\KOSetup\bin\KOSetup.pdb
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KOSetup\SourceCode\KOSetup\KOSetup\obj\Debug\KOSetup.dll
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KOSetup\SourceCode\KOSetup\KOSetup\obj\Debug\KOSetup.pdb
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KOSetup\SourceCode\KOSetup\KOSetup\bin\EntityFramework.dll
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KOSetup\SourceCode\KOSetup\KOSetup\bin\EntityFramework.SqlServer.dll
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KOSetup\SourceCode\KOSetup\KOSetup\bin\EntityFramework.xml
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KOSetup\SourceCode\KOSetup\KOSetup\bin\EntityFramework.SqlServer.xml
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KnockoutWithWebForms\SourceCode\KOSetup\KOSetup\bin\KOSetup.dll.config
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KnockoutWithWebForms\SourceCode\KOSetup\KOSetup\bin\KOSetup.dll
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KnockoutWithWebForms\SourceCode\KOSetup\KOSetup\bin\KOSetup.pdb
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KnockoutWithWebForms\SourceCode\KOSetup\KOSetup\bin\EntityFramework.dll
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KnockoutWithWebForms\SourceCode\KOSetup\KOSetup\bin\EntityFramework.SqlServer.dll
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KnockoutWithWebForms\SourceCode\KOSetup\KOSetup\bin\EntityFramework.xml
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KnockoutWithWebForms\SourceCode\KOSetup\KOSetup\bin\EntityFramework.SqlServer.xml
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KnockoutWithWebForms\SourceCode\KOSetup\KOSetup\obj\Debug\KOSetup.dll
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KnockoutWithWebForms\SourceCode\KOSetup\KOSetup\obj\Debug\KOSetup.pdb
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KnockoutWithWebForms\SourceCode\KOSetup\KOSetup\obj\Debug\KOSetup.csprojResolveAssemblyReference.cache
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KnockoutWithWebForms\Knockout1\Knockout1\KOSetup\KOSetup\KOSetup\bin\KOSetup.dll.config
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KnockoutWithWebForms\Knockout1\Knockout1\KOSetup\KOSetup\KOSetup\bin\KOSetup.dll
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KnockoutWithWebForms\Knockout1\Knockout1\KOSetup\KOSetup\KOSetup\bin\KOSetup.pdb
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KnockoutWithWebForms\Knockout1\Knockout1\KOSetup\KOSetup\KOSetup\obj\Debug\KOSetup.dll
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KnockoutWithWebForms\Knockout1\Knockout1\KOSetup\KOSetup\KOSetup\obj\Debug\KOSetup.pdb
+D:\Akhil Mittal\Articles and Blogs\LearningKnockout\KnockoutWithWebForms\Knockout1\Knockout1\KOSetup\KOSetup\KOSetup\bin\System.Data.Entity.dll
+C:\Users\susan.varghese\Downloads\KOSetup\KOSetup\obj\Debug\KOSetup.csproj.AssemblyReference.cache
+C:\Users\susan.varghese\Downloads\KOSetup\KOSetup\obj\Debug\KOSetup.csproj.CoreCompileInputs.cache
+C:\Users\susan.varghese\Downloads\KOSetup\KOSetup\obj\Debug\KOSetup.dll
+C:\Users\susan.varghese\Downloads\KOSetup\KOSetup\obj\Debug\KOSetup.pdb
+C:\Users\susan.varghese\Downloads\KOSetup\KOSetup\bin\KOSetup.dll.config
+C:\Users\susan.varghese\Downloads\KOSetup\KOSetup\bin\KOSetup.dll
+C:\Users\susan.varghese\Downloads\KOSetup\KOSetup\bin\KOSetup.pdb
+C:\Users\susan.varghese\Downloads\KOSetup\KOSetup\bin\EntityFramework.dll
+C:\Users\susan.varghese\Downloads\KOSetup\KOSetup\bin\EntityFramework.SqlServer.dll
+C:\Users\susan.varghese\Downloads\KOSetup\KOSetup\bin\System.Data.Entity.dll
+C:\Users\susan.varghese\Downloads\KOSetup\KOSetup\bin\EntityFramework.xml
+C:\Users\susan.varghese\Downloads\KOSetup\KOSetup\bin\EntityFramework.SqlServer.xml
+C:\Users\susan.varghese\Downloads\KOSetup\KOSetup\obj\Debug\KOSetup.csproj.CopyComplete

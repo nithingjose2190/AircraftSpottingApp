@@ -1,0 +1,97 @@
+﻿body {
+    background-color: #CED8F6 !important;
+    color: #084B8A;
+    position: relative;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    margin: 0;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+TABLE#table {
+    padding: 0;
+    margin: 0;
+    background-color: #FFF;
+    border-collapse: collapse;
+    text-align: left;
+    min-width: 450px;
+    margin: 0 auto;
+    table-layout: fixed;
+}
+    TABLE#table td {
+        
+        padding: 4px;
+        font-size: 12px;
+        text-overflow: ellipsis;
+        word-wrap: break-word;
+    }
+.even { background-color: #D8F6CE; }
+.odd { background-color: #f0f7ed; }
+.error {
+    background-color: #F5A9A9 !important;
+}
+.info {
+    background-color: #d9edf7 !important;
+}
+.debug {
+    background-color: #D8F6CE !important;
+}
+
+.center { text-align: center; }
+.nowrap { white-space: nowrap; }
+.bold { font-weight: bold; }
+.small { font-size: 12px; }
+.mt-25 {
+    margin-top: 25px;
+}
+.pr-12 {
+    padding-right: 12px !important;
+}
+.pr-10 {
+    padding-right: 10px !important;
+}
+.pr-0 {
+    padding-right: 0px !important;
+}
+.mb-12 {
+    margin-bottom: 12px !important;
+}
+body.Dev {
+    background-color: #FDD !important;
+}
+body.Staging {
+    background-color: #d1d1f7 !important;
+}
+body.Live {
+    background-color: #f7edaf !important;
+}
+
+.pointer {
+    cursor: pointer;
+}
+.hovergreen:active:hover {
+    color: #fff;
+    background-color: #398439;
+    border-color: #255625;
+}
