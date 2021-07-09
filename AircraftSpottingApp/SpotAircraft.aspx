@@ -59,7 +59,7 @@
             <section class="wrapper site-min-height">
                 <section class="card">
                     <div class="row">
-                        <div class="col-lg-4" style="padding-right: 1px;">
+                        <div class="col-lg-4" style="padding-right: 2px;">
                             <section class="card">
                                 <header class="card-header">
                                     Add Logs
@@ -98,7 +98,7 @@
                                             </div>
                                         </div>
                                         <div class="form-group">
-                                            <label for="inputEmail1" class="col-lg-3 col-sm-3 control-label">Spotted When</label>
+                                            <label for="inputEmail1" class="col-lg-4 col-sm-4 control-label">Spotted When</label>
                                             <div class="col-lg-6 col-md-9 col-sm-12">
                                                 <input class="form-control" id="dateandtime" type="datetime-local" data-bind="value: SpottedWhen" />                                                
                                             </div>
@@ -128,7 +128,7 @@
                                                     <th>Model</th>
                                                     <th>Registration</th>
                                                     <th>Location</th>
-                                                    <th>SpottedWhen</th>
+                                                    <th>Spotted When</th>
                                                     <th>Actions</th>
                                                 </tr>
                                             </thead>
